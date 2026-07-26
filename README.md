@@ -56,6 +56,7 @@ Code-first frameworks built for agent evaluation, drop into a repo and run in CI
 - [AgentLab](https://github.com/ServiceNow/AgentLab) — ServiceNow's dev+eval framework atop BrowserGym.
 - [Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) — Generalist web agent benchmark.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) — Live-website multimodal agent eval.
+- [ClawBench](https://claw-bench.com/) — 283 everyday live-site browser tasks with replayable execution evidence.
 
 ### Computer-Use / OS Agents
 - [OSWorld](https://os-world.github.io/) — Multimodal benchmark for desktop computer-use agents.
