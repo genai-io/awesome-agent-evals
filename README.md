@@ -71,6 +71,7 @@ Code-first frameworks built for agent evaluation, drop into a repo and run in CI
 - [τ-bench / τ²-bench](https://arxiv.org/abs/2406.12045) — Sierra's go-to benchmark for conversational tool-use agents; policy-bound, dual-control.
 
 ### Research / Deep-Research Agents
+- [Dr. Bench](https://github.com/EVIGBYEN/DrBench) — 214 long-form report tasks with expert reference bundles and retrieval-trustworthiness scoring.
 - [GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA) — General-assistant benchmark; multi-step research with tools.
 - [BrowseComp](https://openai.com/index/browsecomp/) — Hard browsing/research questions for autonomous browsing agents.
 
