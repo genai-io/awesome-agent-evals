@@ -30,6 +30,8 @@ Hosted platforms (some with open-source cores) that explicitly target agent traj
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source counterpart with agent-trace observability (MIT).
 - [Braintrust](https://www.braintrust.dev/) — Eval-first dev loop with strong agent-trajectory dataset UX.
 
+- [Noveum](https://noveum.ai) - Turns agent traces into evaluation datasets with MCP access to results.
+
 ## Open-Source Eval Libraries
 
 Code-first frameworks built for agent evaluation, drop into a repo and run in CI.
