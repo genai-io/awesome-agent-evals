@@ -29,6 +29,7 @@ Hosted platforms (some with open-source cores) that explicitly target agent traj
 - [LangSmith](https://www.langchain.com/langsmith) — Datasets + LLM-as-judge eval over agent traces; tight LangGraph integration.
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source counterpart with agent-trace observability (MIT).
 - [Braintrust](https://www.braintrust.dev/) — Eval-first dev loop with strong agent-trajectory dataset UX.
+- [Twinbay](https://twinbay.ai) — Stateful third-party API twins per run; grades an agent's captured tool calls against written outcomes.
 
 ## Open-Source Eval Libraries
 
