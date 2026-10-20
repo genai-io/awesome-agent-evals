@@ -95,6 +95,7 @@ This repo focuses tightly on *agent* evaluation. For broader scope, see:
 - [CSHaitao/Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) — LLM-as-judge survey.
 - [tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) — academic survey-driven.
 - [BenchGecko/awesome-llm-benchmarks](https://github.com/BenchGecko/awesome-llm-benchmarks) — benchmarks + leaderboards.
+- [ianwieds/awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) — general agent list; its evaluation section covers benchmarks and tracing tools.
 
 ## Contributing
 
