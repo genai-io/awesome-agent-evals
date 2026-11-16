@@ -41,6 +41,7 @@ Code-first frameworks built for agent evaluation, drop into a repo and run in CI
 - [Strands Evals](https://github.com/strands-agents/evals) — Multi-agent interaction analysis + automated experiment generation.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Pytest-style; agent-specific metrics (task completion, tool correctness).
 - [RagCiteCheck](https://github.com/ppon1086/ragcitecheck) — Python CLI for evidence-stability checks across RAG/agentic retrieval runs.
+- [AgentLeak](https://github.com/yagobski/agentleak) — Python agent-trace privacy checks across tool calls, memory and messages, with CI gates.
 
 ## Agent Benchmarks
 
