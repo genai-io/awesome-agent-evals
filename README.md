@@ -37,6 +37,7 @@ Code-first frameworks built for agent evaluation, drop into a repo and run in CI
 - [Harbor](https://github.com/harbor-framework/harbor) — Containerized agent-eval framework; runs trials at scale across cloud providers (Daytona, Modal). Hosts the Terminal-Bench 2.0 registry.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) — UK AISI's eval framework; the de-facto choice for frontier-model agent evals (tool use, multi-step tasks).
 - [agentevals](https://github.com/langchain-ai/agentevals) — Ready-made trajectory evaluators for agents.
+- [agentest](https://github.com/srpadmanabhuni/agentest) — Offline, deterministic agentic evals: 165 tests of tool-using agents from OpenTelemetry GenAI traces, with no LLM judge.
 - [AWS Agent Evaluation](https://github.com/awslabs/agent-evaluation) — Generative-AI-powered framework for testing virtual agents.
 - [Strands Evals](https://github.com/strands-agents/evals) — Multi-agent interaction analysis + automated experiment generation.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Pytest-style; agent-specific metrics (task completion, tool correctness).
